@@ -39,6 +39,7 @@
                 }
             });
 
+            //commented out
             //modalInstance.result.then(function (selectedItem) {
             //    vm.students[viewId] = selectedItem;
             //});
